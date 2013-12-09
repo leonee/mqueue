@@ -1,6 +1,6 @@
 mqueue
 ======
 Posix message queue.
-create.c: create queue
-mqsend.c: send message
-mqreceive.c: receive message
+create.c: create queue <br \>
+mqsend.c: send message <br \>
+mqreceive.c: receive message <br \>
